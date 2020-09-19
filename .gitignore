@@ -1,0 +1,6 @@
+*.user
+bin/
+build*/
+*cache*
+.idea
+venv
