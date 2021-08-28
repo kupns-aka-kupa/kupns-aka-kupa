@@ -49,7 +49,7 @@
 <a href="https://github.com/nevrending/github-readme-stats">
   <img align="left"
        alt="owyell's Github Stats" 
-       src="https://github-readme-stats.codestackr.vercel.app/api?username=kupns-aka-kupa&show_icons=true&layout=compact" />
+       src="https://github-readme-stats-belyanovia-gmailcom.vercel.app/api?username=kupns-aka-kupa&show_icons=true&layout=compact" />
 </a>
 
 <a href="https://github.com/nevrending/github-readme-stats">
